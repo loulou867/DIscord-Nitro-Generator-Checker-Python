@@ -1,54 +1,4 @@
-<p align="center">
-<img src=https://img.shields.io/github/stars/logicguy1/Discord-Nitro-Generator-and-Checker?style=for-the-badge&logo=appveyor&color=blue />
-<img src=https://img.shields.io/github/forks/logicguy1/Discord-Nitro-Generator-and-Checker?style=for-the-badge&logo=appveyor&color=blue />
-<img src=https://img.shields.io/github/issues/logicguy1/Discord-Nitro-Generator-and-Checker?style=for-the-badge&logo=appveyor&color=informational />
-<img src=https://img.shields.io/github/issues-pr/logicguy1/Discord-Nitro-Generator-and-Checker?style=for-the-badge&logo=appveyor&color=informational />
-</p>
-<br />
-<p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="assets/logo.png" alt="Logo" width="150" height="150">
-  </a>
-  
-  <h3 align="center">Discord Nitro Generator and Checker</h3>
 
-  <p align="center">
-    A discord nitro generator and checker for all your nitro needs
-    <br />
-    <a href="https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker/issues">Request Feature</a>
-      ·
-    <a href="https://www.anonix.xyz/discord">Join the discord</a>
-  </p>
-</p>
-  
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#copyright">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
 
 ## About The Project
 
@@ -96,18 +46,13 @@ python3 main.py
 ## Usage
 
 Run the `main.py` file using `py -3 main.py` 
-The code will show you two prompts:
+The code will show you one prompts:
 1. How many codes to generate 
-2. If you want to use a discord webhook, if you dont know how to get a discord webhook url it is located at   
-   ```channel settings » intergrations » webhooks » create webhook```  
-   If you dont want to use a webhook simply leave this blank  
+ 
 
 The code will start generating and checking after that step
 
 
-## Roadmap
-
-See the [open issues](https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker/issues) for a list of proposed features (and known issues).
 
 ## Contributing
 
@@ -132,7 +77,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 Logicguy - [@Drillenissen#4268](https://www.discordapp.com) - logicguy.mailandcontact@gmail.com
 
-Project Link: [https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker](https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker)
+Project Link: [https://github.com/loulou867/Discord-Nitro-Generator-and-Checker](https://github.com/loulou867/Discord-Nitro-Generator-and-Checker)
 
 <!-- Statistics -->  
 
