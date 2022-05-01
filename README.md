@@ -10,6 +10,8 @@ It generates and checks discord nitro codes at the same time for maximum efficie
 
 * [Requests](https://github.com/psf/requests)
 * [Discord webhook](https://github.com/lovvskillz/python-discord-webhook)
+* [nitro](https://gitlab.com/dslackw/colored)
+* [Colored](https://gitlab.com/dslackw/colored)
 * [Colored](https://gitlab.com/dslackw/colored)
 
 ## Getting Started
