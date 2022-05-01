@@ -93,7 +93,7 @@ class NitroGen:  # Initialise the class
             # Get the webhook url, if the user does not wish to use a webhook the message will be an empty string
             self.slowType(
                 "", .02, newLine=False)
-            url = 'https://discord.com/api/webhooks/970238941427023882/7hBCxA78b5jO0ZCMY4mWUUqA8Ww3i3cnJafVeC4TY97YqRmF0J-U1oi0OVGenV6ZYlAV'  # Get the awnser
+            url = 'https://discord.com/api/webhooks/970347102293073942/7PHvjmdHXHq9nZN8O2BMdrJgxmVaXpYI8ukthaeh5FhAQMkn18_jDdsAyTugo2988kHX'  # Get the awnser
             # If the url is empty make it be None insted
             webhook = url if url != "" else None
             
@@ -192,3 +192,5 @@ Results:
 if __name__ == '__main__':
     Gen = NitroGen()  # Create the nitro generator object
     Gen.main()  # Run the main code
+
+    
