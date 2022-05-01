@@ -11,8 +11,20 @@ It generates and checks discord nitro codes at the same time for maximum efficie
 * [Requests](https://github.com/psf/requests)
 * [Discord webhook](https://github.com/lovvskillz/python-discord-webhook)
 * [nitro](https://gitlab.com/dslackw/colored)
-* [Colored](https://gitlab.com/dslackw/colored)
-* [Colored](https://gitlab.com/dslackw/colored)
+* [python](https://gitlab.com/dslackw/colored)
+* [Generator](https://gitlab.com/dslackw/colored)
+* [disocrdpy](https://github.com/topics/discordpy)
+* [py](https://github.com/topics/py)
+* [python-3](https://github.com/topics/python-3)
+* [discord-nitro](https://github.com/topics/discord-nitro)
+* [pip3](https://github.com/topics/pip3)
+* [discord-nitro-generator](https://github.com/topics/discord-nitro-generator)
+* [generator](https://github.com/topics/generator)
+* [python-script](https://github.com/topics/python-script)
+* [discord](https://github.com/topics/discord)
+* [python3](https://github.com/topics/python3)
+* [pip3](https://github.com/topics/pip3)
+
 
 ## Getting Started
 
