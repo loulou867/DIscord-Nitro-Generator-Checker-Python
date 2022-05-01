@@ -22,7 +22,7 @@ You need to install Python, that can be done [here](https://www.python.org)
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker.git
+   git clone https://github.com/loulou867/DIscord-Nitro-Generator-Checker-Python
    ```
 2. Install Python packages
    ```sh
@@ -36,9 +36,9 @@ You need to install Python, that can be done [here](https://www.python.org)
 #### Or this can be done using android with unrooted Termux
 ```
 pkg install git
-git clone https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker
+git clone https://github.com/loulou867/DIscord-Nitro-Generator-Checker-Python
 pkg install python
-cd Discord-Nitro-Generator-and-Checker
+cd DIscord-Nitro-Generator-Checker-Python
 pip install -r requirements.txt
 python3 main.py
 ```
@@ -77,7 +77,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 Logicguy - [@Drillenissen#4268](https://www.discordapp.com) - logicguy.mailandcontact@gmail.com
 
-Project Link: [https://github.com/loulou867/Discord-Nitro-Generator-and-Checker](https://github.com/loulou867/Discord-Nitro-Generator-and-Checker)
+Project Link: [https://github.com/loulou867/DIscord-Nitro-Generator-Checker-Python](https://github.com/loulou867/DIscord-Nitro-Generator-Checker-Python)
 
 <!-- Statistics -->  
 
